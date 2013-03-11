@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MatchClub.Club">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Club.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatchClub.Match">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACQAAAAAAAAQAAAAUAQAAAAAgQAAAAEgQAAAIAAgAA=</HashCode>
+      <FileName>Match.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatchClub.FrenchLeague1PointSystem">
+    <Position X="5" Y="0.75" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MatchClub.FrenchLeague1PointSystem.PointTotal">
+        <TypeIdentifier>
+          <NewMemberFileName>FrenchLeague1PointSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAQAAABABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FrenchLeague1PointSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatchClub.Ranking">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MatchClub.Ranking.RankingEntry">
+        <TypeIdentifier>
+          <NewMemberFileName>Ranking.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAACAACAAAAgAAAAAAABAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Ranking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

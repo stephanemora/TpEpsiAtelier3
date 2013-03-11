@@ -1,0 +1,5 @@
+c:\users\arsendeur\documents\visual studio 2010\Projects\tpEpsi\tpEpsi\bin\Release\tpEpsi.exe
+c:\users\arsendeur\documents\visual studio 2010\Projects\tpEpsi\tpEpsi\bin\Release\tpEpsi.pdb
+c:\users\arsendeur\documents\visual studio 2010\Projects\tpEpsi\tpEpsi\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\arsendeur\documents\visual studio 2010\Projects\tpEpsi\tpEpsi\obj\x86\Release\tpEpsi.exe
+c:\users\arsendeur\documents\visual studio 2010\Projects\tpEpsi\tpEpsi\obj\x86\Release\tpEpsi.pdb

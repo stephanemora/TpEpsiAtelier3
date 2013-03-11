@@ -1,0 +1,7 @@
+c:\users\arsendeur\documents\visual studio 2010\Projects\tpEpsi\TestMatchClub2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\arsendeur\documents\visual studio 2010\Projects\tpEpsi\TestMatchClub2\bin\Debug\TestMatchClub2.dll
+c:\users\arsendeur\documents\visual studio 2010\Projects\tpEpsi\TestMatchClub2\bin\Debug\TestMatchClub2.pdb
+c:\users\arsendeur\documents\visual studio 2010\Projects\tpEpsi\TestMatchClub2\bin\Debug\MatchClub.dll
+c:\users\arsendeur\documents\visual studio 2010\Projects\tpEpsi\TestMatchClub2\bin\Debug\MatchClub.pdb
+c:\users\arsendeur\documents\visual studio 2010\Projects\tpEpsi\TestMatchClub2\obj\Debug\TestMatchClub2.dll
+c:\users\arsendeur\documents\visual studio 2010\Projects\tpEpsi\TestMatchClub2\obj\Debug\TestMatchClub2.pdb
